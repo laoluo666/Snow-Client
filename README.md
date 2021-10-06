@@ -1,2 +1,2 @@
 # Snow-Client
-A Minecraft modpacks for 1.8.8
+A modpacks for Minecraft 1.8.8
