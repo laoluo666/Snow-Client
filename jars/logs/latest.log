@@ -1,0 +1,946 @@
+[19:23:18] [Client thread/INFO]: Setting user: Player859
+[19:23:18] [Client thread/INFO]: (Session ID is token:0:Player859)
+[19:23:19] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.biome.BiomeGenBase.getWaterColorMultiplier
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addDestroyEffects
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addHitEffects
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canCreatureSpawn
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canRenderInLayer
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.doesSideBlockRendering
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getBedDirection
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getExtendedState
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.hasTileEntity
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isAir
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBed
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBedFoot
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isSideSolid
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.canRiderInteract
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.captureDrops
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.capturedDrops
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRenderInPass
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRiderSit
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getDurabilityForDisplay
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getModel
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.onEntitySwing
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.shouldCauseReequipAnimation
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.showDurabilityBar
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.ItemRecord.getRecordResource
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.PotionEffect.isCurativeItem
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.canRenderBreaking
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.getRenderBoundingBox
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.hasFastRenderer
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.shouldRenderInPass
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher.preDrawBatch
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher.drawBatch
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.preDraw
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.postDraw
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.countEntities
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.getPerWorldStorage
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getCloudRenderer
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getSkyRenderer
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getWeatherRenderer
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IColoredBakedQuad
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ISmartBlockModel
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[19:23:19] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[19:23:19] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[19:23:19] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:23:20] [Client thread/INFO]: [OptiFine] 
+[19:23:20] [Client thread/INFO]: [OptiFine] OptiFine_1.8.8_HD_U_H8
+[19:23:20] [Client thread/INFO]: [OptiFine] Build: null
+[19:23:20] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[19:23:20] [Client thread/INFO]: [OptiFine] Java: 16.0.2, Oracle Corporation
+[19:23:20] [Client thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+[19:23:20] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[19:23:20] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce MX110/PCIe/SSE2, version 4.6.0 NVIDIA 472.12, NVIDIA Corporation
+[19:23:20] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[19:23:20] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[19:23:20] [Thread-5/INFO]: [OptiFine] Checking for new version
+[19:23:21] [Client thread/INFO]: [Shaders] ShadersMod version: 2.4.12
+[19:23:21] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 472.12
+[19:23:21] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[19:23:21] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce MX110/PCIe/SSE2
+[19:23:21] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[19:23:21] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[19:23:21] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[19:23:21] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[19:23:21] [Client thread/INFO]: [Shaders] Load ShadersMod configuration.
+[19:23:21] [Client thread/INFO]: [Shaders] Loaded shaderpack: [温暖清新光影包]Chocapic13 V6[中配].zip
+[19:23:21] [Client thread/INFO]: [OptiFine] [Shaders] Worlds: -1, 1
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: shadowMapResolution
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_basic.fsh: 1024
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_textured.fsh: 2048
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: shadowMapResolution
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_basic.fsh, gbuffers_textured.fsh: 1024
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_textured_lit.fsh: 2048
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: shadowMapResolution
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_basic.fsh, gbuffers_textured.fsh, gbuffers_textured_lit.fsh, gbuffers_clouds.fsh: 1024
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_terrain.fsh: 2048
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: shadowMapResolution
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_basic.fsh, gbuffers_textured.fsh, gbuffers_textured_lit.fsh, gbuffers_clouds.fsh, gbuffers_terrain.fsh, gbuffers_damagedblock.fsh: 1024
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_water.fsh: 2048
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: shadowMapResolution
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_basic.fsh, gbuffers_textured.fsh, gbuffers_textured_lit.fsh, gbuffers_clouds.fsh, gbuffers_terrain.fsh, gbuffers_damagedblock.fsh, gbuffers_water.fsh: 1024
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_entities.fsh: 2048
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: shadowMapResolution
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_basic.fsh, gbuffers_textured.fsh, gbuffers_textured_lit.fsh, gbuffers_clouds.fsh, gbuffers_terrain.fsh, gbuffers_damagedblock.fsh, gbuffers_water.fsh, gbuffers_entities.fsh: 1024
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_hand.fsh: 2048
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: shadowMapResolution
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in gbuffers_basic.fsh, gbuffers_textured.fsh, gbuffers_textured_lit.fsh, gbuffers_clouds.fsh, gbuffers_terrain.fsh, gbuffers_damagedblock.fsh, gbuffers_water.fsh, gbuffers_entities.fsh, gbuffers_hand.fsh: 1024
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in final.fsh: 2048
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: VIGNETTE_END
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in composite1.fsh, final.fsh: 1.25
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in world-1/final.fsh: 1.2
+[19:23:21] [Client thread/WARN]: [OptiFine] Ambiguous shader option: VIGNETTE_END
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in composite1.fsh, final.fsh, world-1/final.fsh: 1.25
+[19:23:21] [Client thread/WARN]: [OptiFine]  - in world1/final.fsh: 1.2
+[19:23:21] [Client thread/INFO]: Reloading ResourceManager: Default, ! Cr1tzPvP FPS Blue 巨有手感.zip, pvp音效包，缓解PVP声音.zip
+[19:23:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: .DS_Store in .\resourcepacks\! Cr1tzPvP FPS Blue 巨有手感.zip
+[19:23:21] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[19:23:21] [Client thread/INFO]: [OptiFine] Resource packs: ! Cr1tzPvP FPS Blue 巨有手感.zip, pvp音效包，缓解PVP声音.zip
+[19:23:21] [Thread-5/INFO]: [OptiFine] Version found: I7
+[19:23:21] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:23:21] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[19:23:21] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:23:21] [Thread-6/INFO]: OpenAL initialized.
+[19:23:21] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii.properties
+[19:23:21] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii_sga.properties
+[19:23:22] [Sound Library Loader/INFO]: Sound engine started
+[19:23:23] [Client thread/INFO]: [OptiFine] Sprite size: 32
+[19:23:23] [Client thread/INFO]: [OptiFine] Mipmap levels: 5
+[19:23:23] [Client thread/INFO]: [OptiFine] Multitexture: false
+[19:23:23] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_connect/bookshelf_a.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/left/bookshelf_b.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/middle/bookshelf_b.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/right/bookshelf_b.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/single/bookshelf_b.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/single/bookshelf_c.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/brewing_stand/brewing_stand.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/cake/cake_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/crafting_table/a.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/crafting_table/b.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_nether_brick/fence_sides.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_nether_brick/fence_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/fence/fence_sides.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/fence/fence_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ew_f_c.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ew_f_o.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ew_s.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ns_f_c.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ns_f_o.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ns_s.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_allium/flower_allium.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_blue_orchid/flower_blue_orchid.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_dandelion/flower_dandelion.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_houstonia/flower_houstonia.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_oxeye_daisy/flower_oxeye_daisy.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_poppy/flower_rose.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass/glass.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_clear/glass.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_black/glass_black.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_blue/glass_blue.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_brown/glass_brown.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_cyan/glass_cyan.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_gray/glass_gray.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_green/glass_green.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_light_blue/glass_light_blue.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_lime/glass_lime.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_magenta/glass_magenta.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_orange/glass_orange.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_pink/glass_pink.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_purple/glass_purple.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_red/glass_red.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_silver/glass_silver.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_white/glass_white.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_yellow/glass_yellow.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/grass_top/grass_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/hardened_clay/hardened_clay.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_black/hardened_clay_stained_black.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_blue/hardened_clay_stained_blue.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_brown/hardened_clay_stained_brown.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_cyan/hardened_clay_stained_cyan.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_gray/hardened_clay_stained_gray.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_green/hardened_clay_stained_green.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_light blue/hardened_clay_stained_light_blue.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_lime/hardened_clay_stained_lime.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_magenta/hardened_clay_stained_magenta.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_orange/hardened_clay_stained_orange.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_pink/hardened_clay_stained_pink.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_purple/hardened_clay_stained_purple.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_red/hardened_clay_stained_red.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_silver/hardened_clay_stained_silver.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_white/hardened_clay_stained_white.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_yellow/hardened_clay_stained_yellow.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ladder/ladder.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/leaves/fancy/leaves_fancy.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/leaves/fast/leaves_fast.properties
+[19:23:23] [Client thread/WARN]: [OptiFine] File not found: textures/blocks/leaves_acacia_opaque.png
+[19:23:23] [Client thread/WARN]: [OptiFine] File not found: textures/blocks/leaves_big_oak_opaque.png
+[19:23:23] [Client thread/WARN]: [OptiFine] File not found: textures/blocks/leaves_oak_opaque.png
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/lily_pad/waterlily.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/monster_spawner/mob_spawner.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/mushroom_big_red_skin/mushroom_block_skin_red.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/mushroom_big_stem/a.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/mushroom_small_brown/mushroom_brown.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/mushroom_small_red/mushroom_red.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_coal/coal_ore.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_diamond/diamond_ore.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_emerald/emerald_ore.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_gold/gold_ore.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_iron/iron_ore.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_redstone/redstone_ore.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/packed_ice/ice.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_acacia/planks_acacia.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_birch/planks_birch.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_dark_oak/planks_big_oak.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_jungle/planks_jungle.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_oak/all_oak_blocks.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_oak/all_oak_blocks_b.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_oak/bookshelf_top_bottom.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_oak/crafting_table_bottom.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_spruce/planks_spruce.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/pumpkin_bottom/pumpkin_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/repeater/repeater_sides.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/sandstone/sandstone_normal.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/sandstone_smooth/sandstone_smooth.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/sugar_cane/reeds.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/a.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/b.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/c.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/d.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/e.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/f.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/g.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/vines/vine.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_acacia/log_acacia_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_birch/log_birch_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_dark_oak/log_big_oak_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_jungle/log_jungle_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_oak/log_oak_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_spruce/log_spruce_top.properties
+[19:23:23] [Client thread/INFO]: [OptiFine] Multipass connected textures: true
+[19:23:23] [Client thread/INFO]: [OptiFine] Multipass connected textures: true
+[19:23:23] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/leaves_big_oak_opaque.png, java.io.FileNotFoundException
+[19:23:23] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/leaves_acacia_opaque.png, java.io.FileNotFoundException
+[19:23:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/leaves_oak_opaque.png, java.io.FileNotFoundException
+[19:23:24] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[19:23:25] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/water.png
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/swampgrass.png
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/swampfoliage.png
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/sky0.png
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world-1.png
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world0.png
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world1.png
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Loading mcpatcher/color.properties
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: drop.water = ffffff
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: lilypad = 577119
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomColors: Potion colors: 20
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky1.properties
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky2.properties
+[19:23:25] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky3.properties
+[19:23:26] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky4.properties
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/bat.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/blaze.png, variants: 4
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/chicken.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/cow/cow.png, variants: 5
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/cow/mooshroom.png, variants: 2
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/creeper/creeper.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/enderman/enderman.png, variants: 5
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/ghast/ghast_shooting.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/iron_golem.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/pig/pig.png, variants: 4
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/silverfish.png, variants: 4
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/skeleton/skeleton.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/skeleton/wither_skeleton.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/slime/slime.png, variants: 4
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/slime/magmacube.png, variants: 4
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/spider/cave_spider.png, variants: 4
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/spider/spider.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/spider_eyes.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/squid.png, variants: 4
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/wolf/wolf.png, variants: 5
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/wolf/wolf_angry.png, variants: 5
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/wolf/wolf_tame.png, variants: 5
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/zombie_pigman.png, variants: 4
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/zombie/zombie.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/zombie/zombie_villager.png, variants: 3
+[19:23:26] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[19:23:28] [Server thread/INFO]: Starting integrated minecraft server version 1.8.8
+[19:23:28] [Server thread/INFO]: Generating keypair
+[19:23:28] [Server thread/INFO]: Preparing start region for level 0
+[19:23:29] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:23:29] [Server thread/INFO]: Player859[local:E:a678cc79] logged in with entity id 130 at (535.320179770002, 64.0, 215.6241074078998)
+[19:23:29] [Server thread/INFO]: Player859 joined the game
+[19:23:29] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra I7§f
+[19:23:29] [Client thread/INFO]: [Shaders] Shadow map resolution: 1024
+[19:23:29] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_basic
+[19:23:29] [Client thread/INFO]: [Shaders] Shadow map resolution: 2048
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_textured
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow map resolution: 2048
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_textured_lit
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_skybasic
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_skytextured
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow map resolution: 1024
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_clouds
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow map resolution: 2048
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_terrain
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow map resolution: 1024
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_damagedblock
+[19:23:30] [Client thread/INFO]: [Shaders] Shader info log: /shaders/gbuffers_water.vsh
+0(22) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(23) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+[19:23:30] [Client thread/INFO]: [Shaders] Info log: /shaders/gbuffers_water.vsh, /shaders/gbuffers_water.fsh
+Vertex info
+-----------
+0(22) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(23) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_water
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow map resolution: 2048
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_entities
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow map resolution: 2048
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_hand
+[19:23:30] [Client thread/INFO]: [Shaders] Shader info log: /shaders/gbuffers_weather.vsh
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+[19:23:30] [Client thread/INFO]: [Shaders] Info log: /shaders/gbuffers_weather.vsh, /shaders/gbuffers_weather.fsh
+Vertex info
+-----------
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: gbuffers_weather
+[19:23:30] [Client thread/INFO]: [Shaders] Shader info log: /shaders/composite.fsh
+0(62) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(63) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(64) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(65) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(66) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(67) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(68) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(69) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(70) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(71) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(72) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(75) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(76) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(78) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(79) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(81) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(82) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(83) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(84) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+
+[19:23:30] [Client thread/INFO]: [Shaders] Info log: /shaders/composite.vsh, /shaders/composite.fsh
+Vertex info
+-----------
+0(90) : warning C7050: "nsunlight" might be used before being initialized
+
+Fragment info
+-------------
+0(62) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(63) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(64) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(65) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(66) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(67) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(68) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(69) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(70) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(71) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(72) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(75) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(76) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(78) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(79) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(81) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(82) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(83) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(84) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+
+
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: composite
+[19:23:30] [Client thread/INFO]: [Shaders] Shader info log: /shaders/composite1.vsh
+0(69) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(70) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(71) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(72) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(73) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(74) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(75) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(76) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(78) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(79) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(81) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(82) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(83) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(84) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(86) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(87) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(89) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(90) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(91) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(92) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(94) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(95) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(96) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(98) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(99) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(100) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(101) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(103) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+
+[19:23:30] [Client thread/INFO]: [Shaders] gcolor format: RGBA16
+[19:23:30] [Client thread/INFO]: [Shaders] gcolor format: R11F_G11F_B10F
+[19:23:30] [Client thread/INFO]: [Shaders] gdepth format: RGBA16
+[19:23:30] [Client thread/INFO]: [Shaders] gnormal format: RGBA16
+[19:23:30] [Client thread/INFO]: [Shaders] gdepth mipmap enabled
+[19:23:30] [Client thread/INFO]: [Shaders] Shader info log: /shaders/composite1.fsh
+0(92) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(94) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(95) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(96) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(97) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(98) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(100) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(101) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(102) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(103) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(105) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(107) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(109) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(112) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(113) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(115) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(117) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(118) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(119) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(120) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(121) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(122) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(123) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(124) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(125) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(126) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(127) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(128) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(129) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(130) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+
+[19:23:30] [Client thread/INFO]: [Shaders] Info log: /shaders/composite1.vsh, /shaders/composite1.fsh
+Vertex info
+-----------
+0(69) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(70) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(71) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(72) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(73) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(74) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(75) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(76) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(78) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(79) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(81) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(82) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(83) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(84) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(86) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(87) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(89) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(90) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(91) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(92) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(94) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(95) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(96) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(98) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(99) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(100) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(101) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(103) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(92) : warning C7050: "nsunlight" might be used before being initialized
+
+Fragment info
+-------------
+0(92) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(94) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(95) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(96) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(97) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(98) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(100) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(101) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(102) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(103) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(105) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(107) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(109) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(112) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(113) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(115) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(117) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(118) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(119) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(120) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(121) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(122) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(123) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(124) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(125) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(126) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(127) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(128) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(129) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(130) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+
+
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: composite1
+[19:23:30] [Client thread/INFO]: [Shaders] gcolor mipmap enabled
+[19:23:30] [Client thread/INFO]: [Shaders] Info log: /shaders/composite2.vsh, /shaders/composite2.fsh
+Vertex info
+-----------
+0(90) : warning C7050: "nsunlight" might be used before being initialized
+
+
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: composite2
+[19:23:30] [Client thread/INFO]: [Shaders] Info log: /shaders/composite3.vsh, /shaders/composite3.fsh
+Vertex info
+-----------
+0(90) : warning C7050: "nsunlight" might be used before being initialized
+
+
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: composite3
+[19:23:30] [Client thread/INFO]: [Shaders] Shader info log: /shaders/final.vsh
+0(69) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(70) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(71) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(72) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(73) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(74) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(75) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(76) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(78) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(79) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(81) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(82) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(83) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(84) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(86) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(87) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(89) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(90) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(91) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(92) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(94) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(95) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(96) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(98) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(99) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(100) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(101) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(103) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+
+[19:23:30] [Client thread/INFO]: [Shaders] gcolor format: RGBA16
+[19:23:30] [Client thread/INFO]: [Shaders] gcolor format: R11F_G11F_B10F
+[19:23:30] [Client thread/INFO]: [Shaders] composite format: RGBA16
+[19:23:30] [Client thread/INFO]: [Shaders] composite format: R11F_G11F_B10F
+[19:23:30] [Client thread/INFO]: [Shaders] gdepth format: RGBA16
+[19:23:30] [Client thread/INFO]: [Shaders] gnormal format: RGBA16
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow map resolution: 2048
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow map distance: 140.0
+[19:23:30] [Client thread/INFO]: [Shaders] shadowHardwareFiltering0
+[19:23:30] [Client thread/INFO]: [Shaders] Sun path rotation: -40.0f
+[19:23:30] [Client thread/INFO]: [Shaders] gdepth mipmap enabled
+[19:23:30] [Client thread/INFO]: [Shaders] Shader info log: /shaders/final.fsh
+0(99) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(101) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(102) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(103) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(104) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(105) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(107) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(108) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(109) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(110) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(112) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(114) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(116) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(119) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(120) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(122) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(124) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(125) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(126) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(127) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(128) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(129) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(130) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(131) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(132) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(133) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(134) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(135) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(136) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(137) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+
+[19:23:30] [Client thread/INFO]: [Shaders] Info log: /shaders/final.vsh, /shaders/final.fsh
+Vertex info
+-----------
+0(69) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(70) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(71) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(72) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(73) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(74) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(75) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(76) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(78) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(79) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(81) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(82) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(83) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(84) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(86) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(87) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(89) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(90) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(91) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(92) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(94) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(95) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(96) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(98) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(99) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(100) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(101) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(103) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(92) : warning C7050: "nsunlight" might be used before being initialized
+
+Fragment info
+-------------
+0(99) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(101) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(102) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(103) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(104) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(105) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(107) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(108) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(109) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(110) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(112) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(114) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(116) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(119) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(120) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(122) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(124) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(125) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(126) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(127) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(128) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(129) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(130) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(131) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(132) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(133) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(134) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(135) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(136) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+0(137) : warning C7555: 'varying' is deprecated, use 'in/out' instead
+
+
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: final
+[19:23:30] [Client thread/INFO]: [Shaders] Shader info log: /shaders/shadow.vsh
+0(34) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(35) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+[19:23:30] [Client thread/INFO]: [Shaders] Info log: /shaders/shadow.vsh, /shaders/shadow.fsh
+Vertex info
+-----------
+0(34) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(35) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+
+[19:23:30] [Client thread/INFO]: [Shaders] Program loaded: shadow
+[19:23:30] [Client thread/INFO]: [Shaders] usedColorBuffers: 4
+[19:23:30] [Client thread/INFO]: [Shaders] usedDepthBuffers: 1
+[19:23:30] [Client thread/INFO]: [Shaders] usedShadowColorBuffers: 0
+[19:23:30] [Client thread/INFO]: [Shaders] usedShadowDepthBuffers: 1
+[19:23:30] [Client thread/INFO]: [Shaders] usedColorAttachs: 4
+[19:23:30] [Client thread/INFO]: [Shaders] usedDrawBuffers: 2
+[19:23:30] [Client thread/INFO]: [Shaders] Framebuffer created.
+[19:23:30] [Client thread/INFO]: [Shaders] Shadow framebuffer created.
+[19:23:30] [Client thread/INFO]: [Shaders] Reset world renderers
+[19:23:31] [Client thread/INFO]: [Shaders] Reset model renderers
+[19:23:35] [Server thread/INFO]: [Player859: Set own game mode to Creative Mode]
+[19:23:35] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[19:23:37] [Server thread/INFO]: Saving and pausing game...
+[19:23:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:23:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:23:37] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:23:39] [Client thread/INFO]: [Shaders] Framebuffer created.
+[19:24:02] [Server thread/INFO]: Player859 has just earned the achievement [Taking Inventory]
+[19:24:02] [Client thread/INFO]: [CHAT] Player859 has just earned the achievement [Taking Inventory]
+[19:24:06] [Server thread/INFO]: Saving and pausing game...
+[19:24:06] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:24:06] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:24:06] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:24:09] [Server thread/INFO]: Saving and pausing game...
+[19:24:09] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:24:09] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:24:09] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:24:12] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[19:24:12] [Client thread/INFO]: Reloading ResourceManager: Default, ! Cr1tzPvP FPS Blue 巨有手感.zip, pvp音效包，缓解PVP声音.zip
+[19:24:12] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: .DS_Store in .\resourcepacks\! Cr1tzPvP FPS Blue 巨有手感.zip
+[19:24:12] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[19:24:12] [Client thread/INFO]: [OptiFine] Resource packs: ! Cr1tzPvP FPS Blue 巨有手感.zip, pvp音效包，缓解PVP声音.zip
+[19:24:13] [Client thread/INFO]: SoundSystem shutting down...
+[19:24:13] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:24:13] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:24:13] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii.properties
+[19:24:13] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii_sga.properties
+[19:24:13] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[19:24:13] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:24:13] [Thread-11/INFO]: OpenAL initialized.
+[19:24:14] [Sound Library Loader/INFO]: Sound engine started
+[19:24:14] [Client thread/INFO]: [OptiFine] Sprite size: 32
+[19:24:14] [Client thread/INFO]: [OptiFine] Mipmap levels: 5
+[19:24:14] [Client thread/INFO]: [OptiFine] Multitexture: false
+[19:24:14] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_connect/bookshelf_a.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/left/bookshelf_b.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/middle/bookshelf_b.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/right/bookshelf_b.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/single/bookshelf_b.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/bookshelf_random/single/bookshelf_c.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/brewing_stand/brewing_stand.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/cake/cake_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/crafting_table/a.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/crafting_table/b.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_nether_brick/fence_sides.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_nether_brick/fence_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/fence/fence_sides.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/fence/fence_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ew_f_c.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ew_f_o.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ew_s.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ns_f_c.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ns_f_o.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_ns_s.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/fence_wooden/gate/gate_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_allium/flower_allium.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_blue_orchid/flower_blue_orchid.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_dandelion/flower_dandelion.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_houstonia/flower_houstonia.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_oxeye_daisy/flower_oxeye_daisy.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/flowers/flower_poppy/flower_rose.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass/glass.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_clear/glass.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_black/glass_black.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_blue/glass_blue.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_brown/glass_brown.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_cyan/glass_cyan.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_gray/glass_gray.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_green/glass_green.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_light_blue/glass_light_blue.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_lime/glass_lime.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_magenta/glass_magenta.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_orange/glass_orange.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_pink/glass_pink.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_purple/glass_purple.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_red/glass_red.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_silver/glass_silver.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_white/glass_white.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_stained/glass_yellow/glass_yellow.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/grass_top/grass_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/hardened_clay/hardened_clay.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_black/hardened_clay_stained_black.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_blue/hardened_clay_stained_blue.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_brown/hardened_clay_stained_brown.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_cyan/hardened_clay_stained_cyan.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_gray/hardened_clay_stained_gray.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_green/hardened_clay_stained_green.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_light blue/hardened_clay_stained_light_blue.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_lime/hardened_clay_stained_lime.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_magenta/hardened_clay_stained_magenta.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_orange/hardened_clay_stained_orange.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_pink/hardened_clay_stained_pink.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_purple/hardened_clay_stained_purple.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_red/hardened_clay_stained_red.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_silver/hardened_clay_stained_silver.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_white/hardened_clay_stained_white.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/hardened_clay/stained/hardened_clay_yellow/hardened_clay_stained_yellow.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ladder/ladder.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/leaves/fancy/leaves_fancy.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/leaves/fast/leaves_fast.properties
+[19:24:14] [Client thread/WARN]: [OptiFine] File not found: textures/blocks/leaves_acacia_opaque.png
+[19:24:14] [Client thread/WARN]: [OptiFine] File not found: textures/blocks/leaves_big_oak_opaque.png
+[19:24:14] [Client thread/WARN]: [OptiFine] File not found: textures/blocks/leaves_oak_opaque.png
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/lily_pad/waterlily.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/monster_spawner/mob_spawner.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/mushroom_big_red_skin/mushroom_block_skin_red.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/mushroom_big_stem/a.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/mushroom_small_brown/mushroom_brown.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/mushroom_small_red/mushroom_red.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_coal/coal_ore.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_diamond/diamond_ore.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_emerald/emerald_ore.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_gold/gold_ore.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_iron/iron_ore.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/ore/ore_redstone/redstone_ore.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/packed_ice/ice.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_acacia/planks_acacia.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_birch/planks_birch.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_dark_oak/planks_big_oak.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_jungle/planks_jungle.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_oak/all_oak_blocks.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_oak/all_oak_blocks_b.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_oak/bookshelf_top_bottom.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_oak/crafting_table_bottom.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/planks/planks_spruce/planks_spruce.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/pumpkin_bottom/pumpkin_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/repeater/repeater_sides.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/sandstone/sandstone_normal.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/sandstone_smooth/sandstone_smooth.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/sugar_cane/reeds.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/a.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/b.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/c.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/d.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/e.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/f.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/trapdoor/g.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/vines/vine.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_acacia/log_acacia_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_birch/log_birch_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_dark_oak/log_big_oak_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_jungle/log_jungle_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_oak/log_oak_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/wood_ends/wood_spruce/log_spruce_top.properties
+[19:24:14] [Client thread/INFO]: [OptiFine] Multipass connected textures: true
+[19:24:14] [Client thread/INFO]: [OptiFine] Multipass connected textures: true
+[19:24:14] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/leaves_big_oak_opaque.png, java.io.FileNotFoundException
+[19:24:14] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/leaves_acacia_opaque.png, java.io.FileNotFoundException
+[19:24:14] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/leaves_oak_opaque.png, java.io.FileNotFoundException
+[19:24:15] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[19:24:15] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/water.png
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/swampgrass.png
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/swampfoliage.png
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/sky0.png
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world-1.png
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world0.png
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world1.png
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Loading mcpatcher/color.properties
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: drop.water = ffffff
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: lilypad = 577119
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomColors: Potion colors: 20
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky1.properties
+[19:24:15] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky2.properties
+[19:24:16] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky3.properties
+[19:24:16] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky4.properties
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/bat.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/blaze.png, variants: 4
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/chicken.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/cow/cow.png, variants: 5
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/cow/mooshroom.png, variants: 2
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/creeper/creeper.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/enderman/enderman.png, variants: 5
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/ghast/ghast_shooting.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/iron_golem.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/pig/pig.png, variants: 4
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/silverfish.png, variants: 4
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/skeleton/skeleton.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/skeleton/wither_skeleton.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/slime/slime.png, variants: 4
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/slime/magmacube.png, variants: 4
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/spider/cave_spider.png, variants: 4
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/spider/spider.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/spider_eyes.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/squid.png, variants: 4
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/wolf/wolf.png, variants: 5
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/wolf/wolf_angry.png, variants: 5
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/wolf/wolf_tame.png, variants: 5
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/zombie_pigman.png, variants: 4
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/zombie/zombie.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] RandomMobs: textures/entity/zombie/zombie_villager.png, variants: 3
+[19:24:16] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[19:24:16] [Client thread/INFO]: [Shaders] Uninit
+[19:24:16] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[19:24:18] [Client thread/INFO]: [Shaders] Save ShadersMod configuration.
+[19:24:58] [Server thread/INFO]: Saving and pausing game...
+[19:24:58] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:24:58] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:24:58] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:25:35] [Server thread/INFO]: Saving and pausing game...
+[19:25:36] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:25:36] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:25:36] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:25:39] [Server thread/INFO]: Saving and pausing game...
+[19:25:39] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:25:39] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:25:39] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:26:38] [Server thread/INFO]: Saving and pausing game...
+[19:26:38] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:26:38] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:26:38] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:26:40] [Server thread/INFO]: Saving and pausing game...
+[19:26:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:26:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:26:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:27:54] [Server thread/INFO]: Saving and pausing game...
+[19:27:54] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:27:54] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:27:54] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:27:55] [Server thread/INFO]: Stopping server
+[19:27:55] [Server thread/INFO]: Saving players
+[19:27:55] [Server thread/INFO]: Saving worlds
+[19:27:55] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[19:27:55] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[19:27:55] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[19:27:59] [Client thread/INFO]: Stopping!
+[19:27:59] [Client thread/INFO]: SoundSystem shutting down...
+[19:27:59] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

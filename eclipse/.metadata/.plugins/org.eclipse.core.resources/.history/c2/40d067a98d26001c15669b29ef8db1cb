@@ -1,0 +1,10 @@
+package snowclientMain;
+
+import org.lwjgl.opengl.Display;
+
+public class ClientName {
+	public static void nameChange() {
+		Display.setTitle("Snow Client 1.8.8");
+	}
+
+}
